@@ -1,0 +1,6 @@
+[submodule "curlpp"]
+	path = curlpp
+	url = git@github.com:jpbarrette/curlpp.git
+[submodule "lib/httplib"]
+	path = lib/httplib
+	url = https://github.com/yhirose/cpp-httplib
